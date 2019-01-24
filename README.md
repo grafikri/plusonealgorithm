@@ -1,5 +1,5 @@
 # Plus One Algorithm for huge number (over 64 bits)
-This algorithm made just for hobby. You can use it any number and it will get you number + 1.
+This algorithm made just for hobby. You can use it with any number and it will get you number + 1.
 
 ### For example
 ```
